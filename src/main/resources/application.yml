@@ -1,0 +1,15 @@
+server:
+  port: 9093
+
+spring:
+  profiles:
+    active: dev
+  application:
+    name: "FOOD-CATALOGUE-SERVICE"
+  datasource:
+    driver-class-name: oracle.jdbc.OracleDriver
+  jpa:
+    database-platform: org.hibernate.dialect.OracleDialect
+    show-sql: true
+    hibernate:
+      ddl-auto: create

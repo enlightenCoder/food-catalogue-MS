@@ -1,0 +1,10 @@
+com\codedecode\foodCatalogue\controller\FoodItemController.class
+com\codedecode\foodCatalogue\FoodCatalogueApplication.class
+com\codedecode\foodCatalogue\repository\FoodItemRepository.class
+com\codedecode\foodCatalogue\dto\FoodItemDTO.class
+com\codedecode\foodCatalogue\entity\FoodItem.class
+com\codedecode\foodCatalogue\mapper\FoodItemMapper.class
+com\codedecode\foodCatalogue\dto\FoodCatalogPage.class
+com\codedecode\foodCatalogue\mapper\FoodItemMapperImpl.class
+com\codedecode\foodCatalogue\service\FoodItemService.class
+com\codedecode\foodCatalogue\dto\RestaurantDTO.class
